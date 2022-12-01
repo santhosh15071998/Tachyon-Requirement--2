@@ -7,7 +7,7 @@
     width: 100%;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(SAN.jpg);
     background-position: center;
-    background-size: contain;
+    background-size: center;
     height: 100vh;
 }
 .item img{
@@ -54,8 +54,8 @@
     margin-top: 5px
 }
 
-.menu{
-    width: 400px;
+.menu1{
+    width: 55px;
     float: left;
     height: 70px;
 }
@@ -131,6 +131,132 @@ ul li a:hover{
     color: #000;
     transition: .3s ease;
 }
+
+.cn:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+.content span{
+    color: #ff7200;
+    font-size: 65px
+}
+
+
+.items img{
+    width: 100%;
+  
+    object-fit: center;
+    margin-top: 35px;
+    height: 100vh;     
+}
+
+.items2 img{
+    width: 100%;
+  
+    object-fit: center;
+    margin-top: 0px;
+    height: 100vh;     
+}
+
+.icons a{
+    text-decoration: none;
+    
+}
+.icons ion-icon{
+   
+    font-size: 30px;
+    padding-left: 14px;
+    padding-top: 5px;
+    float: right;
+    
+   
+}
+.icons ion-icon:hover{
+    color: #ff7200;
+}
+
+
+.section1{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: rgba(8, 8, 8, 0.888);
+    position: relative;
+    margin-top: 50px;
+    
+    
+    
+}
+
+.section1.par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+   
+}
+
+
+.section{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: rgba(8, 8, 8, 0.888);
+    position: relative;
+    margin-top: 15px;
+}
+
+.section .par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+}
+
+.section2{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: rgba(8, 8, 8, 0.888);
+    position: relative;
+    margin-top: 15px;
+    margin-left: 405px;
+    
+}
+
+.section2.par{
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    
+}
+
+.content .cn1{
+    width: 160px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 70px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+    
+    
+}
+
+.content .cn1 a{
+    text-decoration: none;
+    color: #000;
+    transition: .3s ease;
+}
+
+
 
 
 
